@@ -1,0 +1,9 @@
+﻿  Classifier.cpp
+C:\Users\ASUS\source\repos\SCM_SAM_new\SCM_SAM_new\Classifier.cpp(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\ASUS\source\repos\SCM_SAM_new\SCM_SAM_new\Classifier.cpp(9,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\ASUS\source\repos\SCM_SAM_new\SCM_SAM_new\Classifier.cpp(200,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\SCM_SAM_new\SCM_SAM_new\Classifier.cpp(254,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\SCM_SAM_new\SCM_SAM_new\Classifier.cpp(298,16): warning C4101: 'value': unreferenced local variable
+C:\Users\ASUS\source\repos\SCM_SAM_new\SCM_SAM_new\Classifier.cpp(298,6): warning C4101: 'row': unreferenced local variable
+C:\Users\ASUS\source\repos\SCM_SAM_new\SCM_SAM_new\Classifier.cpp(298,11): warning C4101: 'col': unreferenced local variable
+  SCM_SAM_new.vcxproj -> C:\Users\ASUS\source\repos\SCM_SAM_new\x64\Debug\SCM_SAM_new.exe
