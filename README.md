@@ -1,5 +1,5 @@
 # SAM_SCM_Classifier
-Hyper-Spectral Image Classifier in C++ using SAM and SCM
+Hyper-Spectral Image Classifier in C++ using SAM and SCM, DRDO Internship
 
 ○ Carried out project on ‘Hyperspectral Image Classification using SAM and SCM with Parallel 
 Implementation’.
